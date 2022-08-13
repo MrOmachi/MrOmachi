@@ -3,6 +3,7 @@
 
 **Now here's a little about me:** 
 
+```js
 const JohnOmachi = {
   lookingFor: 'Front End Development Jobs',
   Stacks: ['JavaScript',],
@@ -10,5 +11,6 @@ const JohnOmachi = {
   hobbies: ['Music', 'Travelling', 'Coding'],
   facts: ['Learning React and looking forward to picking up Ruby & RoR', 'Great lover of Javascript!]
 }
+```
 
 
