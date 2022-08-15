@@ -2,7 +2,7 @@
 <p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-John%20Omachi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-omachi-00446210b/)](https://www.linkedin.com/in/john-omachi-00446210b/)
-[![Twitter Badge](https://img.shields.io/badge/-@Mr_Omachi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/IdungStanley)](https://twitter.com/Mr_Omachi)[![wakatime](https://wakatime.com/badge/user/909dbd3a-7288-43ba-a40a-85182df68521.svg)](https://wakatime.com/@909dbd3a-7288-43ba-a40a-85182df68521)
+[![Twitter Badge](https://img.shields.io/badge/-@Mr_Omachi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Mr_Omachi)](https://twitter.com/Mr_Omachi)[![wakatime](https://wakatime.com/badge/user/909dbd3a-7288-43ba-a40a-85182df68521.svg)]
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="280"/>
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> Now here's a little about me...  
@@ -25,8 +25,6 @@ const JohnOmachi = {
 
 <!--START_SECTION:waka-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrOmachi)](https://github.com/MrOmachi/github-readme-stats)
-
-[![Stanley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrOmachi)](https://github.com/idungstanley/github-readme-stats)
 
 <!--END_SECTION:waka-->
 
