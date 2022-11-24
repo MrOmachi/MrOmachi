@@ -33,4 +33,4 @@ const JohnOmachi = {
 <!--END_SECTION:waka-->
 
 
-<p>You can check out my portfolio <a href="https://mromachi.github.io/Portfolio-Microverse/">here.</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+- 📫 How to reach me: [Click here to send me a mail](omachi.john@yahoo.com) 
