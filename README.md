@@ -18,8 +18,12 @@ const JohnOmachi = {
   'I play Table tennis during my free time.']
 }
 ```
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrOmachi&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrOmachi&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api?username=MrOmachi&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alhajideen&theme=tokyonight&hide_border=true&area=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrOmachi&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)
+
+
 
 ### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
